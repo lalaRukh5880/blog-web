@@ -27,7 +27,7 @@ export default async function  BlogArticle({
     return(
         <div className="mt-8 flex flex-col items-center justify-center ">
             <h1>
-                <span className="block text-base text-center text-primary font-semibold tracking-wide uppercase">kashaf noor-Blog</span>
+                <span className="block text-base text-center text-primary font-semibold tracking-wide uppercase">Lalarukh Blogs</span>
                 <span className="mt-2 block text-3xl text-center leading-8 font-bold tracking-tight sm:text-4xl">{data.title}</span>
             </h1>
                 
